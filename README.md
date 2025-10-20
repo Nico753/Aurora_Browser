@@ -1,6 +1,6 @@
 # 🚀 Aurora Browser: Il Browser con Intelligenza Contestuale
 
-**Autore:** Dominici Nicols, Tsaturyan Igor, Pansardi Nicolò
+**Autori:** Dominici Nicols, Tsaturyan Igor, Pansardi Nicolò
 **Anno:** 2025/2026
 
 ---
